@@ -1,3 +1,6 @@
 node_modules
-.env
-db
+dist
+.DS_Store
+*.local
+*.tsbuildinfo
+npm-debug.log*
